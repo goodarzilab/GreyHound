@@ -25,7 +25,7 @@ MANIFEST
 .ipynb_checkpoints
 
 # PyTorch
-*.pt
+#*.pt
 *.pth
 
 # Data files
@@ -80,7 +80,5 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
-data/
-notebooks/
 data/
 notebooks/
