@@ -1,0 +1,5 @@
+# Exclude from GitHub release tarballs (and thus Zenodo)
+notebooks/ export-ignore
+# Optional extras:
+# *.ipynb export-ignore
+# data/raw/ export-ignore
